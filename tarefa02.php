@@ -1,6 +1,6 @@
 <?php
 
-$valor01 = 7;
+$valor01 = 2;
 $vaolor02 = 10;
 
 function soma($v1, $v2){
